@@ -7,7 +7,7 @@ export default function Home() {
     <main>
 
       <form >
-      <h2>Formulário para Contato</h2>
+      <h2>Formulário para Contato</h2> <br />
 
         <label> Nome: </label>
         <input type="text" name="nome" placeholder='Digite seu nome....'/> <br /><br />
