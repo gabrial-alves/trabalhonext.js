@@ -12,6 +12,12 @@ export default function Home() {
         <label> Nome: </label>
         <input type="text" name="nome" placeholder='Digite seu nome....'/> <br /><br />
 
+        <label> Telefone:  </label>
+        <input type="text" name="telefone" placeholder='Digite seu telefone....'/> <br /><br />
+
+        <label form="cpf">CPF:</label>
+        <input type="text" id="cpf" name="cpf" maxLength ={11} placeholder='Digite seu CPF...'/><br /><br />
+       
         <label> E-mail:  </label>
         <input type="text" name="email" placeholder='Digite seu e-mail...'/> <br /><br />
         
